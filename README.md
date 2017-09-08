@@ -27,9 +27,8 @@ npm run build
 webpack
  |---build
  |---src
-     |---assets    #资源
+     |---assets    #这里存放公共资源
         |---css
-        |---font
         |---js
         |---image
      |---components  #放置公共组件组件
