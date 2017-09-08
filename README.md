@@ -27,7 +27,11 @@ npm run build
 webpack
  |---build
  |---src
+<<<<<<< HEAD
      |---assets    #这里放置公共资源
+=======
+     |---assets    
+>>>>>>> aa2768d1cb463b57d60f609e327bc1570b71d6c7
         |---css
         |---js
         |---img
@@ -55,6 +59,7 @@ webpack
         |---mui	 
      
   ```
+<<<<<<< HEAD
   ## 一些文件说明
 
 build目录放的是构建脚本（包括构建时要用到的webpack 配置）
@@ -65,3 +70,6 @@ src目录就是你的项目源码目录
 .postcssrc 用到的css的前or后处理器的配置  ` 不能删！`
 package.json 整个项目的一个启动入口和依赖包安装指南  ` 不能删！`
  
+=======
+ 
+>>>>>>> aa2768d1cb463b57d60f609e327bc1570b71d6c7
